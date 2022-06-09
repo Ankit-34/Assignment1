@@ -9,5 +9,3 @@ begin
 		dbms_output.put_line(year|| ' is not a leap year');
 	end if;
 end;
-
--- what is this
